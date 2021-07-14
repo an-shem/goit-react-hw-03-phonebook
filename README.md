@@ -1,6 +1,6 @@
 # goit-react-hw-03-phonebook
 
-Дз-2 ---Телефонная книга
+Дз-3 ---Телефонная книга
 
 # Getting Started with Create React App
 
