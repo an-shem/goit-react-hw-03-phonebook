@@ -1,6 +1,8 @@
 import styled from '@emotion/styled';
 
 export const Contact = styled.li`
+  display: flex;
+  justify-content: space-between;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
@@ -26,6 +28,6 @@ export const DeleteButton = styled.button`
   letter-spacing: 0.03em;
 
   &:hover {
-    background-color: #eb1212;
+    background-color: #e96161;
   }
 `;
